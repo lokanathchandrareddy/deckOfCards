@@ -18,6 +18,7 @@
   "homepage": "https://github.com/lokanathchandrareddy/deckOfCards#readme",
   "dependencies": {
     "express": "^4.16.3",
+    "mocha": "^5.2.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.2"
   }
