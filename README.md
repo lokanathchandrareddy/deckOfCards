@@ -2,7 +2,7 @@
 
 Node.js application to find Top Poker hand using the deck of cards API (https://deckofcardsapi.com/) 
   
-Should Perform theses things.
+Should Perform these things.
 
 ------------------------------------------------------------------------------------------------------------------------------
 * Creates and shuffles a deck of cards
