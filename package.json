@@ -2,9 +2,11 @@
   "name": "deckofcards",
   "version": "1.0.0",
   "description": "Node Application using DeckOfCardsAPI",
-  "main": "server.js",
+  "main": "deck.js",
+
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node deck.js",
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
