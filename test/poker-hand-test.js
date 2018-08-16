@@ -308,13 +308,5 @@ describe('Top Hand', function () {
         assert(topCard.containsStraight() === false);
 
     });
- // not working : 
-    // ['9 of DIAMONDS',
-    //     'ACE of SPADES',
-    //     '2 of DIAMONDS',
-    //     '8 of DIAMONDS',
-    //     '3 of HEARTS']
-
-
 
 });
