@@ -1,11 +1,12 @@
 const PokerHand = require('./../lib/poker/hand');
 const assert = require('assert');
 
+// here the test cases are defined, and test is excecuted through mocha using assert function
 describe('Poker Hand', function () {
 
 
     it('Should detect a royal flush', function () {
-
+        //defining the array manually to check if it works or not. 
         const suites = [
             { "value": 11, "suit": "C" },
             { "value": 12, "suit": "C" },
