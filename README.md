@@ -18,7 +18,7 @@ Should Perform these things.
 
 ------------------------------------------------------------------------------------------------------------------------------
 ## Assumptions
-* Changed the values of __'ACE' -> 14, 'KING'-> 13, 'QUEEN' -> 12, 'JACK' ->11 and 'ClUBS' -> 'C', 'SPADES' -> 'S', 'HEARTS' -> 'H', 'DIAMONDS' -> 'D'__ to use just numbers and single letter to compare.
+* Changed the values of __'ACE' -> 14, 'KING'-> 13, 'QUEEN' -> 12, 'JACK' ->11 and 'CLUBS' -> 'C', 'SPADES' -> 'S', 'HEARTS' -> 'H', 'DIAMONDS' -> 'D'__ to use just numbers and single letter to compare.
 * Used the same deck_id obtained from the shuffle to draw the cards(we can also use 'new' if dont want use the same deck id)
 * **Pair** -> Two cards of the same value
 * __Two pair__ -> Two cards of the one value and two cards of another value, it should fullfill the pair function
