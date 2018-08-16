@@ -11,9 +11,9 @@ Should Perform theses things.
 ------------------------------------------------------------------------------------------------------------------------------
 * Step 1: Clone the repository using git clone in the terminal
 * Step 2: cd deckOfCards ( navigate inside of the directory)
-* Step 3: npm install (to install all the modules in package.json)
-* Step 4: npm audit fix (if required or if it suggests in the terminal)
-* Step 5: To run the app - use #npm start or node deck.js #
-* Step 6: To test the test cases using mocha #npm test or node node_modules/.bin/mocha test/
+* Step 3: **npm install** (to install all the modules in package.json)
+* Step 4: **npm audit fix** (if required or if it suggests in the terminal)
+* Step 5: To run the app - use **npm start or node deck.js** 
+* Step 6: To test the test cases using mocha **npm test or node node_modules/.bin/mocha test/**
 
 ------------------------------------------------------------------------------------------------------------------------------
